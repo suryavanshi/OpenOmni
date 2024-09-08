@@ -7,6 +7,9 @@ An Open Source Project to develop a model with capabilities similar to GPT-4o or
   - [LLava Family of Models](https://llava-vl.github.io/)
   - [CogVLM](https://arxiv.org/abs/2311.03079)
   - [Flamingo (from DeepMind)](https://deepmind.google/discover/blog/tackling-multiple-tasks-with-a-single-visual-language-model/)
+ 
+## Audio + Text LLM
+[Mini-omni](https://github.com/gpt-omni/mini-omni)
 
 ## Comparing Various Vision Language Models
 | Model       | Params | Base Language Model                                        | Vision Encoder                        | Max Input Resolution          | Apache/MIT             |
